@@ -12,7 +12,7 @@
 
         <div class="about__grid">
             <div class="about__media reveal">
-                <img src="assets/img/logo.webp" alt="Logotipo da JA Conveniência" loading="lazy" decoding="async">
+                <img src="assets/img/logo-ja-loungebar.png" alt="Logotipo da JA Loungebar" loading="lazy" decoding="async">
             </div>
             <div class="about__content reveal">
                 <p>

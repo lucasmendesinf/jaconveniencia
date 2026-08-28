@@ -980,10 +980,6 @@ section {
         display: none;
     }
 
-    .hero__actions .btn {
-        width: 100%;
-    }
-
     .about,
     .services,
     .beverages,
@@ -991,5 +987,100 @@ section {
     .events,
     .contact {
         padding: 56px 0;
+    }
+}
+
+@media (max-width: 640px) {
+    .site-header__inner {
+        min-height: 76px;
+    }
+
+    .ja-emblem--compact,
+    .ja-emblem--compact img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .brand__name {
+        font-size: 1.18rem;
+    }
+
+    .hero {
+        min-height: auto;
+    }
+
+    .hero__overlay {
+        background:
+            linear-gradient(90deg, rgba(16, 17, 20, 0.95), rgba(16, 17, 20, 0.76)),
+            linear-gradient(0deg, rgba(16, 17, 20, 0.76), transparent 45%);
+    }
+
+    .hero__inner {
+        padding-top: 140px;
+        padding-bottom: 42px;
+    }
+
+    .hero__title {
+        max-width: 100%;
+        font-size: clamp(3rem, 13vw, 3.8rem);
+        overflow-wrap: break-word;
+    }
+
+    .hero__subtitle {
+        display: -webkit-box;
+        max-width: 34rem;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        font-size: 1rem;
+    }
+
+    .hero__actions {
+        display: grid;
+        gap: 12px;
+        width: 100%;
+        max-width: none;
+    }
+
+    .hero__actions .btn {
+        width: 100%;
+        min-height: 50px;
+        padding-right: 16px;
+        padding-left: 16px;
+        font-size: 0.96rem;
+    }
+
+    .hero__highlights {
+        grid-template-columns: 1fr;
+        width: 100%;
+        max-width: none;
+        padding-right: 0;
+    }
+
+    .hero__highlights li,
+    .hero__quick-card {
+        width: 100%;
+        max-width: none;
+    }
+
+    .hero__quick-card {
+        justify-self: start;
+    }
+
+    .whatsapp-float {
+        right: 18px;
+        bottom: 18px;
+        width: 54px;
+        height: 54px;
+    }
+}
+
+@media (max-width: 380px) {
+    .hero__title {
+        font-size: 2.8rem;
+    }
+
+    .hero__highlights {
+        padding-right: 0;
     }
 }

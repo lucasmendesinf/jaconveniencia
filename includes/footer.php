@@ -43,6 +43,8 @@
 
         <p class="site-footer__rights">
             &copy; <?= date('Y') ?> <?= e($config['business_name']) ?>. Todos os direitos reservados.
+            <br>
+            Desenvolvido por <a href="https://calutec.com.br" target="_blank" rel="noopener noreferrer">Calutec Soluções</a>.
         </p>
     </div>
 </footer>
