@@ -3,4 +3,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=$HOME/public_html/
     - /bin/mkdir -p $DEPLOYPATH
-    - /usr/bin/rsync -a --delete --exclude='.git' --exclude='.cpanel.yml' --exclude='.gitignore' --exclude='cgi-bin' ./ $DEPLOYPATH
+    - /bin/chmod 755 $DEPLOYPATH
+    - find $DEPLOYPATH -mindepth 1 -maxdepth 1 ! -name 'cgi-bin' -exec rm -rf {} +
+    - /bin/cp -a . $DEPLOYPATH
+    - /bin/rm -rf $DEPLOYPATH/.git $DEPLOYPATH/.cpanel.yml $DEPLOYPATH/.gitignore
