@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/jaconveniencia/
+    - /bin/mkdir -p $DEPLOYPATH
+    - /usr/bin/rsync -a --delete --exclude='.git' --exclude='.cpanel.yml' --exclude='.gitignore' ./ $DEPLOYPATH
