@@ -35,7 +35,7 @@ $services = [
         'slug'  => 'eventos',
         'icon'  => 'party',
         'title' => 'Casa de Eventos',
-        'desc'  => 'Espaço para encontros, comemorações e próximas experiências da JA.',
+        'desc'  => 'Espaço para encontros, comemorações e próximas experiências da J&A.',
     ],
     [
         'slug'  => 'loja-futura',
@@ -49,7 +49,7 @@ $services = [
     <div class="container">
         <div class="section-heading section-heading--split reveal">
             <p class="eyebrow">Produtos e serviços</p>
-            <h2>Tudo o que a JA oferece em uma experiência direta e moderna.</h2>
+            <h2>Tudo o que a J&A oferece em uma experiência direta e moderna.</h2>
             <p class="section-heading__lead">
                 Um ecossistema comercial pronto para crescer: vitrine institucional hoje,
                 catálogo, loja, delivery e gestão nas próximas etapas.

@@ -2,7 +2,7 @@
     <div class="container food-delivery__grid-main">
         <div class="food-delivery__content reveal">
             <p class="eyebrow">Lanchonete e delivery</p>
-            <h2>Fome bateu? A JA resolve com lanche, porção e entrega.</h2>
+            <h2>Fome bateu? A J&A resolve com lanche, porção e entrega.</h2>
             <p>
                 Um bloco pronto para evoluir para cardápio digital e delivery integrado.
                 Nesta fase, o contato principal continua sendo pelo WhatsApp.
@@ -37,7 +37,7 @@
         </div>
 
         <div class="food-delivery__media reveal">
-            <img src="assets/img/lanchonete-eventos.jpg" alt="Lanches, embalagens de delivery e ambiente de eventos da JA Conveniência" loading="lazy" decoding="async">
+            <img src="assets/img/lanchonete-eventos.jpg" alt="Lanches, embalagens de delivery e ambiente de eventos da J&A Conveniência" loading="lazy" decoding="async">
         </div>
     </div>
 </section>

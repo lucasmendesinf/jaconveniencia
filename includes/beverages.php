@@ -8,7 +8,7 @@
             <p class="eyebrow">Bebidas e conveniência</p>
             <h2>Bebidas geladas, itens rápidos e praticidade para qualquer hora.</h2>
             <p>
-                Da compra de última hora ao encontro com os amigos, a JA reúne opções para
+                Da compra de última hora ao encontro com os amigos, a J&A reúne opções para
                 consumo imediato, retirada e atendimento pelo WhatsApp.
             </p>
 

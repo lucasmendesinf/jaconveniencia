@@ -19,7 +19,7 @@ $upcomingEvents = [
     <div class="container events__inner">
         <div class="events__intro reveal">
             <p class="eyebrow">Casa de eventos</p>
-            <h2>Um espaço para encontros, comemorações e experiências da JA.</h2>
+            <h2>Um espaço para encontros, comemorações e experiências da J&A.</h2>
             <p>
                 A agenda ainda não está ativa, mas a estrutura da seção já está preparada
                 para receber eventos, datas, páginas de detalhe e chamadas comerciais.
@@ -41,7 +41,7 @@ $upcomingEvents = [
                 <div class="events__empty">
                     <span class="events__empty-icon"><?= ja_icon('party') ?></span>
                     <p>Em breve</p>
-                    <small>Acompanhe a JA para novidades da programação.</small>
+                    <small>Acompanhe a J&A para novidades da programação.</small>
                 </div>
             <?php else: ?>
                 <ul class="events__list">

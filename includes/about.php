@@ -1,10 +1,10 @@
 <section class="about" id="sobre">
     <div class="container about__inner">
         <div class="section-heading reveal">
-            <p class="eyebrow">Sobre a JA</p>
+            <p class="eyebrow">Sobre a J&A</p>
             <h2>Uma conveniência pensada para o dia, a noite e a comemoração.</h2>
             <p class="section-heading__lead">
-                A JA Conveniência une atendimento rápido, mix comercial completo e um ambiente
+                A J&A Conveniência une atendimento rápido, mix comercial completo e um ambiente
                 preparado para receber clientes que querem praticidade sem abrir mão de uma
                 experiência moderna.
             </p>
@@ -26,7 +26,7 @@
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Falar com a JA
+                    Falar com a J&A
                 </a>
             </div>
         </div>

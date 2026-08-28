@@ -7,7 +7,7 @@
     <div class="container hero__inner">
         <div class="hero__copy">
             <p class="eyebrow reveal">Bebidas · Conveniência · Lanchonete · Eventos</p>
-            <h1 class="hero__title reveal">JA Conveniência</h1>
+            <h1 class="hero__title reveal">J&A Conveniência</h1>
             <p class="hero__subtitle reveal">
                 O ponto certo para comprar bebidas, resolver a conveniência, pedir um lanche
                 e acompanhar as próximas experiências da casa.

@@ -1,6 +1,6 @@
 <?php
 /**
- * Configuração central do site JA Conveniência.
+ * Configuração central do site J&A Conveniência.
  *
  * Todos os componentes (header, hero, lanchonete, contato, footer, botão
  * flutuante de WhatsApp) leem os dados a partir daqui. Para atualizar um
@@ -11,8 +11,8 @@
  */
 
 return [
-    'business_name'   => 'JA Conveniência',
-    'business_short'  => 'JA',
+    'business_name'   => 'J&A Conveniência',
+    'business_short'  => 'J&A',
     'tagline'         => 'Bebidas, conveniência, lanchonete e eventos',
     'slogan'          => 'Tudo para o seu momento, do pedido rápido ao evento especial.',
 
@@ -21,9 +21,9 @@ return [
 
     // Mensagens padrão enviadas ao clicar em cada CTA de WhatsApp.
     'whatsapp_messages' => [
-        'default' => 'Olá! Vim pelo site da JA Conveniência e gostaria de saber mais.',
+        'default' => 'Olá! Vim pelo site da J&A Conveniência e gostaria de saber mais.',
         'pedido'  => 'Olá! Vim pelo site e quero falar sobre bebidas, conveniência ou lanchonete.',
-        'eventos' => 'Olá! Vim pelo site e gostaria de saber mais sobre a casa de eventos da JA.',
+        'eventos' => 'Olá! Vim pelo site e gostaria de saber mais sobre a casa de eventos da J&A.',
     ],
 
     // Encontrado via Instagram/Facebook do negócio — confirmar antes de publicar.
@@ -48,8 +48,8 @@ return [
     'instagram_url'    => 'https://www.instagram.com/ja_conveniencia/',
 
     'seo' => [
-        'title'       => 'JA Conveniência | Bebidas, Conveniência, Lanchonete e Eventos',
-        'description' => 'JA Conveniência: bebidas, conveniência, lanchonete, delivery e casa de eventos em Curitiba. Fale pelo WhatsApp.',
+        'title'       => 'J&A Conveniência | Bebidas, Conveniência, Lanchonete e Eventos',
+        'description' => 'J&A Conveniência: bebidas, conveniência, lanchonete, delivery e casa de eventos em Curitiba. Fale pelo WhatsApp.',
         // PLACEHOLDER: substituir por uma foto real do espaço/produtos quando disponível.
         'og_image'    => '/JaConveniencia/assets/img/hero-ja-conveniencia.jpg',
     ],
