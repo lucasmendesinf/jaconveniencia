@@ -30,11 +30,11 @@ return [
     'phone_display' => '(41) 99993-4378',
 
     'address' => [
-        'street'  => 'Av. Luciana, 357',
+        'street'  => 'Rua Enette Dubard, 229 - Tatuquara',
         'city'    => 'Curitiba',
         'state'   => 'PR',
-        'zip'     => '', // PLACEHOLDER: CEP não localizado nas fontes públicas consultadas
-        'maps_embed_url' => 'https://www.google.com/maps?q=Av.+Luciana,+357+-+Jardim+Luciana,+Curitiba+-+PR&output=embed',
+        'zip'     => '81470-075',
+        'maps_embed_url' => 'https://www.google.com/maps?q=J%26a+conveni%C3%AAncia+e+bebidas,+Rua+Enette+Dubard,+229+-+Tatuquara,+Curitiba+-+PR,+81470-075&output=embed',
     ],
 
     // PLACEHOLDER: horário real de funcionamento.
