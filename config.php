@@ -16,8 +16,7 @@ return [
     'tagline'         => 'Bebidas, conveniência, lanchonete e eventos',
     'slogan'          => 'Tudo para o seu momento, do pedido rápido ao evento especial.',
 
-    // Encontrado via Instagram/Facebook do negócio (@ja_conveniencia) — confirmar antes de publicar.
-    'whatsapp_number' => '5541999934378',
+    'whatsapp_number' => '5541995209684',
 
     // Mensagens padrão enviadas ao clicar em cada CTA de WhatsApp.
     'whatsapp_messages' => [
@@ -26,8 +25,7 @@ return [
         'eventos' => 'Olá! Vim pelo site e gostaria de saber mais sobre a casa de eventos da J&A.',
     ],
 
-    // Encontrado via Instagram/Facebook do negócio — confirmar antes de publicar.
-    'phone_display' => '(41) 99993-4378',
+    'phone_display' => '(41) 99520-9684',
 
     'address' => [
         'street'  => 'Rua Enette Dubard, 229 - Tatuquara',
